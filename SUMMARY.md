@@ -1,5 +1,11 @@
 # Table of contents
 
 * [Initial page](README.md)
-* [Head First Design Patterns](head-first-design-patterns.md)
 
+## Books / PDFs
+
+* [Head First Design Patterns](./books/head-first-design-patterns.md)
+
+## Audio Books
+
+* [Algorithms to Live By](./audio-books/algorithms-to-live-by.md)
